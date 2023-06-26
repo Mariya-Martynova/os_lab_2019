@@ -1,5 +1,5 @@
 #include "revert_string.h"
-
+#include <string.h>
 void RevertString(char *str)
 {
 	int i,j;
